@@ -68,7 +68,7 @@ const OwnerDetails = (props) => {
                 </Row>
                 {renderTypeOfUserConditionally(owner)}
             </Well>
-            <OwnersAccounts accounts={owner.account} />
+            <OwnersAccounts accounts={owner.accounts} />
         </Fragment>
     )
 }
