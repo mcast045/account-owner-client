@@ -4,6 +4,7 @@ import Moment from 'react-moment';
 
 const OwnersAccounts = (props) => {
     let accounts = null;
+    console.log(props.accounts);
     if (props.accounts) {
         accounts = props.accounts.map(account => {
             return (
