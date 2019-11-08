@@ -6,4 +6,4 @@ npm install
 npm start
 ```
 
-Server-side code is in my Account-owner-server repository
+Server-side code is in my account-owner-server repository
