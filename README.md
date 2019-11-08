@@ -6,4 +6,4 @@ npm install
 npm start
 ```
 
-Server-side code is in my LandMonkAPI repository
+Server-side code is in my Account-owner-server repository
