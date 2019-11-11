@@ -1,7 +1,7 @@
 # Account-Owner Client
 
 ## Summary
-This is a React client application that consumes a REST API implemented on a .NET Core Web API server. It is deployed on Heroku at [here](https://github.com/mcast045/account-owner-server)
+This is a React client application that consumes a REST API implemented on a .NET Core Web API server. It is deployed on Heroku at [here](https://github.com/mcast045/account-owner-server)<br><br>
 The back-end code is located at [here](https://github.com/mcast045/account-owner-server)
 1. Used React Router and Bootstrap to implement a navigation component.
 2. Used Axios for API calls to handle GET, POST, PUT and DELETE calls.
