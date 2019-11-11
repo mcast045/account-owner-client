@@ -16,5 +16,3 @@ The back-end code is located at [here](https://github.com/mcast045/account-owner
 npm install
 npm start
 ```
-
-Server-side code is in my account-owner-server repository
